@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd todo-react && npm install && npm run build",
+  "outputDirectory": "todo-react/dist",
+  "installCommand": "echo skip"
+}
